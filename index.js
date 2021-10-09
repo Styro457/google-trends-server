@@ -3,7 +3,6 @@ import { getAverageWordSearches } from "./google-trends.js";
 
 
 const app = Express();
-const port = 3000;
 
 app.get("/average-word-search/:word", (req, res) => {
     getAverageWordSearches(req.params.word).then(result => {
@@ -14,4 +13,4 @@ app.get("/average-word-search/:word", (req, res) => {
     });
 })
 
-app.listen(port, () => console.log("Listening on port " + port));
+app.listen(process.env.PORT || 3000);
