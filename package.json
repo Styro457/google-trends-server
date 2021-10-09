@@ -13,5 +13,8 @@
   "dependencies": {
     "express": "^4.17.1",
     "google-trends-api": "^4.9.2"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5"
   }
 }
