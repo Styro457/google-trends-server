@@ -2,7 +2,7 @@
 
 # Google Trends API Server
 
-**Public NodeJS Server used to retrive google trends data directly on client-side**<br>
+**Public NodeJS Server used to retrive google trends data directly on client-side in order to avoid cors restrictions**<br>
 using the [google-trends-api](https://www.npmjs.com/package/google-trends-api) package
 
 Hosten on [Heroku](https://herokuapp.com)
