@@ -1,3 +1,5 @@
+<img align="left" width="80" height="50" src="https://i.pinimg.com/originals/8e/24/03/8e24031175b855889b54bce691617263.png" alt="Icon">
+
 # Google Trends API Server
 
 **Public NodeJS Server used to retrive google trends data directly on client-side**<br>
