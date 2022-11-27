@@ -5,6 +5,8 @@ using the [google-trends-api](https://www.npmjs.com/package/google-trends-api) p
 
 Hosten on [Heroku](https://herokuapp.com)
 
+- Recommended mainly for small projects
+
 ## How to use
 
 As of right now, the only avaliable endpoint is /average-word-search<br>
